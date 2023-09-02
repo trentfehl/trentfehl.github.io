@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 480px;
+    text-align: left;
+    padding: 0 16px;
+    background-color: #877cc8;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.8;
+    color: #F1F2F6;
+    text-align: left; 
+}
+
+a {
+    color: #AEB8FE;
+}
+
+a:hover, a:visited:hover {
+    opacity: 0.8;  
+    color: #FF8600;
+}
+
+a:visited {
+    color: #758BFD;
+}
